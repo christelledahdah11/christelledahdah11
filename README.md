@@ -18,7 +18,7 @@
 
 <br/>
 
-## 🚀 About Me
+## About Me
 
 I'm a Data Scientist working at the intersection of **product analytics, growth experimentation, and data infrastructure**. My focus is the unglamorous middle layer that makes analytics work: clean event taxonomies, reliable pipelines, and dashboards people actually use to make decisions.
 
@@ -38,7 +38,7 @@ currently_building: Mixpanel + BigQuery growth stack for Q-commerce
 
 <br/>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 #### Languages & Data
 <p>
@@ -112,31 +112,31 @@ currently_building: Mixpanel + BigQuery growth stack for Q-commerce
 
 <br/>
 
-## 📌 Featured Projects
+## Featured Projects
 
 ### 🎓 AUB Libraries Social Media Analytics
 End-to-end analytics infrastructure spanning Facebook, Instagram, LinkedIn, YouTube, and GA4 (2018 to 2026). SQLite + Python pipeline feeding a live Power BI Service dashboard with scheduled refresh. Surfaced platform-engagement benchmarks and a posting-cadence gap correlating with an engagement trough. **MSBA Capstone Project.**
 
 `Python` `SQLite` `Power BI` `GA4 API` `Meta Graph API`
 
-### 🎬 Movie Success Prediction
+### Movie Success Prediction
 Machine learning model forecasting pre-production commercial success of films using historical box-office data and metadata features. Designed to support data-driven greenlight decisions and reduce financial risk on studio investments.
 
 `Python` `scikit-learn` `pandas` `EDA`
 
-### 💬 Sentiment Analysis Dashboard
+### Sentiment Analysis Dashboard
 Interactive NLP dashboard tracking sentiment across user-generated text. Built for real-time monitoring of brand and product perception signals.
 
 `Python` `NLP` `Streamlit`
 
-### 🏠 Real Estate Data Pipeline
+### Real Estate Data Pipeline
 Production-grade real estate data pipelines on AWS and PostgreSQL processing large-scale property listings for downstream analytics at 3ikar.com.
 
 `Python` `AWS` `PostgreSQL` `ETL`
 
 <br/>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=christelledahdah11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
@@ -145,13 +145,13 @@ Production-grade real estate data pipelines on AWS and PostgreSQL processing lar
 
 <br/>
 
-## 🎯 What I Care About
+## What I Care About
 
 Designing data systems that people actually use. Most analytics work fails not because the math is wrong, but because the pipeline is brittle, the events are mistracked, or the insight never reaches a decision-maker. I focus on the boring middle layer that makes the rest work.
 
 <br/>
 
-## 📫 Let's Connect
+## Let's Connect
 
 <p>
   <a href="https://www.linkedin.com/in/christelle-dahdah-5515b2264">
